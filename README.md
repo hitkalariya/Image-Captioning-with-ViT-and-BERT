@@ -9,7 +9,7 @@
 
 **Advanced image captioning system using Vision Transformer (ViT) encoder and BERT decoder**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/hitkalariya)
+[![GitHub](https://img.shields.io/badge/GitHub-@hitkalariya-black?style=for-the-badge&logo=github)](https://github.com/hitkalariya)
 
 </div>
 
@@ -213,6 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hit Kalariya**
 
 - GitHub: [@hitkalariya](https://github.com/hitkalariya)
+- Profile: https://github.com/hitkalariya
 - Focus: AI/ML, Computer Vision, Deep Learning
 - Expertise: Neural Networks, Large Language Models, Multimodal AI
 
